@@ -3,7 +3,7 @@ Simple Chem Python project created during Sem 1
 Designed for learning purposes using basic Python
 
 # Features
-- Periodic Table
+- Periodic Table with element redirection to wiki
 - Compound Mass Calculator
 - Common Chemical Name Reactions
 - Use of Excel files for data handling
